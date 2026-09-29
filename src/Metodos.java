@@ -1,5 +1,5 @@
 import java.io.*;
-
+import javax.xml.parsers.*;
 public class Metodos {
     public static void gardarProducto(Producto p) {
         //guardo en ficheros
